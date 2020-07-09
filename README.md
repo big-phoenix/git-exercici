@@ -1,1 +1,1 @@
-# proyect1
+# git-exercici
